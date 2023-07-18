@@ -13,7 +13,7 @@ body {
 
 
 .rounded-div{
-  @apply bg-gray-900 border-gray-800 text-white px-6 max-w-[90%] w-full mx-auto my-4;
+  @apply bg-gray-900 border-gray-800 text-white px-6 max-w-[1100px] w-full mx-auto my-4;
 }
 
 .text-color{
